@@ -1,2 +1,2 @@
 # Everlytics
-Assignment submitted for FrontEnd Developer 
+Assignment submitted for FrontEnd Developer Intern
